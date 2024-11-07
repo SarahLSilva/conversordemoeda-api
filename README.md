@@ -1,6 +1,6 @@
 # 💱 Conversor de Moeda
 
-![banner](img/)
+![banner](img/Captura%20de%20tela%202024-11-07%20084513.png)
 
 # 💎 Principais Funções
 
@@ -25,7 +25,7 @@
 
 ## 🟡 Resumo-da-funcionalidade em api
 
-Este projeto é uma versão melhorada do [conversor de moeda simplis](), O conversor permite que o usuário escolha a moeda de origem e a moeda de destino, insira um valor e receba o resultado convertido em tempo real de acordo com a chave do site
+Este projeto é uma versão melhorada do [conversor de moeda simples](https://github.com/SarahLSilva/ConversorDeMoeda.git), O conversor permite que o usuário escolha a moeda de origem e a moeda de destino, insira um valor e receba o resultado convertido em tempo real de acordo com a chave do site
 
 # Explanação do codigo
 
@@ -67,6 +67,8 @@ A função de conversão valida a entrada para garantir que valores válidos sej
 > [Reverso](https://context.reverso.net/traducao/ingles-portugues/currency+symbol)
 
 > [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)
+
+> [Echange-api](https://app.exchangerate-api.com/dashboard): site usado para retirar a chave para a conversão em tempo real.
 
 
 # 👧🏻 Autora
