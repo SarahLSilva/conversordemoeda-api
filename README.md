@@ -25,7 +25,7 @@
 
 ## 🟡 Resumo-da-funcionalidade em api
 
-Este projeto é uma versão melhorada do [conversor de moeda simples](https://github.com/SarahLSilva/ConversorDeMoeda.git), O conversor permite que o usuário escolha a moeda de origem e a moeda de destino, insira um valor e receba o resultado convertido em tempo real de acordo com a chave do site
+Este projeto é uma versão melhorada do [conversor de moeda simples](https://github.com/SarahLSilva/ConversorDeMoeda.git), O conversor permite que o usuário escolha a moeda de origem e a moeda de destino, insira um valor e receba o resultado convertido em tempo real de acordo com a chave do site, possui tabem uma validação de dados.
 
 # Explanação do codigo
 
